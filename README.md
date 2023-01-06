@@ -44,8 +44,8 @@ movie_list 클래스의 속성을 display: flex; flex-wrap: wrap; 줘서 가로 
 
 ## 4. React Router사용
 
-메뉴를 통한 페이지 이동은 ReactRouter를 사용하여 변경하였고, a태그 대신 NavLink컴포넌트를 사용하여 창이 새로고침 되지 않도록했습니다.
-Github pages는 router를 지원하지않기 때문에 browerRouter대신 hashRouter를 사용햇습니다.
+1. 메뉴를 통한 페이지 이동은 ReactRouter를 사용하여 변경하였고, a태그 대신 NavLink컴포넌트를 사용하여 창이 새로고침 되지 않도록했습니다.
+2. Github pages는 router를 지원하지않기 때문에 browerRouter대신 hashRouter를 사용햇습니다.
 
 ## 8. Git pages
 
