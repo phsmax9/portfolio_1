@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     basename: "/pofolpage1.io",
     path: "/", // 경로 설정
