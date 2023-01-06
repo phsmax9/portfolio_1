@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pofolpage1.io/static/css/main.ea69f5cc.css",
+    "main.js": "/pofolpage1.io/static/js/main.4ce9b3a5.js",
+    "index.html": "/pofolpage1.io/index.html",
+    "main.ea69f5cc.css.map": "/pofolpage1.io/static/css/main.ea69f5cc.css.map",
+    "main.4ce9b3a5.js.map": "/pofolpage1.io/static/js/main.4ce9b3a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea69f5cc.css",
+    "static/js/main.4ce9b3a5.js"
+  ]
+}
