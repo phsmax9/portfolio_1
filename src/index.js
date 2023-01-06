@@ -6,30 +6,37 @@ import App from "./App";
 
 const router = createBrowserRouter([
   {
+    basename: "/pofolpage1.io",
     path: "/", // 경로 설정
     element: <App year="all" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/all", // 경로 설정
     element: <App year="all" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/2019", // 경로 설정
     element: <App year="2019" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/2018", // 경로 설정
     element: <App year="2018" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/2017", // 경로 설정
     element: <App year="2017" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/2016", // 경로 설정
     element: <App year="2016" />, // 해당 경로에 나올 JSX 설정
   },
   {
+    basename: "/pofolpage1.io",
     path: "/2015", // 경로 설정
     element: <App year="2015" />, // 해당 경로에 나올 JSX 설정
   },
